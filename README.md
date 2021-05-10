@@ -6,4 +6,4 @@ Dataset disponibilizado pelo Laboratory for Innovation Science at Harvard (na pl
 
 Obs.: Não inclui a aula de Machine Learning e Sci-kit learning.
 
-#imersaodados #alura
+#imersaodados #alura #datascience
