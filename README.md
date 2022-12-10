@@ -6,4 +6,4 @@ Dataset disponibilizado pelo [Laboratory for Innovation Science at Harvard](http
 
 Obs.: Não inclui a aula de Machine Learning e Sci-kit learning.
 
-Análises feitas por [Jessica Silva](https://www.linkedin.com/in/leaojjessica/), em maio de 2021.
+Análises feitas por [Jessica Silva](https://www.linkedin.com/in/ssilvajessica/), em maio de 2021.
